@@ -1,8 +1,8 @@
 # Aula 6 - Responsabilidades e Camadas
 
 ## Integrantes
-- Integrante A:
-- Integrante B:
+- Integrante A: Matheus Dabella
+- Integrante B: Matheus Dabella
 - Turma:
 
 ## Objetivo da aula
@@ -19,11 +19,11 @@ Criar um controller simples e ajustar o projeto para reforçar a separação de 
 | view | | |
 
 ## Testes realizados
-- [ ] Projeto executou antes das alterações
-- [ ] Cadastro de aluno funcionando
-- [ ] Listagem funcionando
-- [ ] Busca funcionando
-- [ ] Opção de quantidade funcionando
+- [X] Projeto executou antes das alterações
+- [X] Cadastro de aluno funcionando
+- [X] Listagem funcionando
+- [X] Busca funcionando
+- [X] Opção de quantidade funcionando
 
 ## Observações da dupla
-Descrevam aqui o que mudou no projeto e qual integrante fez cada parte.
+Primeiro criei um git para a pasta, depois editei o Origin para o repositório da atividade, terceiro fiz a lista. Eu, Matheus, fiz só posi havia faltado no dia da atividade.
